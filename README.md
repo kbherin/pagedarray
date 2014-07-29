@@ -1,6 +1,6 @@
 # Tie::PagedArray
 
-This tieable module helps deal with very large arrays by paging. The array is broken into pages and only one page is in memory. Rest of them are written to disk. The elements of the paged array can be anything.
+Tie::PagedArray ![Tie::PagedArray](https://metacpan.org/pod/Tie::PagedArray) helps deal with very large arrays by paging. The array is broken into pages and only one page is in memory. Rest of them are written to disk. The elements of the paged array can be anything.
 
 ## SYNOPSIS
 
